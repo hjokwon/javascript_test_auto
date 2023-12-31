@@ -1,0 +1,1 @@
+## Javascript Testcafe Automation Test
