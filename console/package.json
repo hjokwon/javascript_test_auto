@@ -1,0 +1,16 @@
+{
+    "name" : "console-testcafe",
+    "version": "1.0.0",
+    "scripts": {
+        "preinstall": "cd ../component_class && npm ci"
+    },
+    "devDependencies": {
+        "testcafe": "2.3.0", 
+        "typescript": "5.3"
+    },
+    "dependencies": {
+        "config": "^3.0.1",
+        "npm" : "^7.0.0",
+        "component_class": "file: ../component_class"
+    }
+}

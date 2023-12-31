@@ -1,0 +1,8 @@
+{
+    "name": "component_class",
+    "version": "1.0.0",
+    "devDependencies": {
+        "testcafe": "^2.3.0",
+        "typescript": "5.3"
+    }
+}

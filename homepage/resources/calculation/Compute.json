@@ -1,0 +1,13 @@
+{
+    "Service_002": {
+        "region": {
+            "kr1": true, "jp1": false, "us1": true
+        },
+        "kr1": [
+            ["option_1", "100", "option_2", "10000"]
+        ],
+        "us1": [
+            ["option_1", "100", "option_2", "30000"]
+        ]
+    }
+}

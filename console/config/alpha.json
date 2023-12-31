@@ -1,0 +1,7 @@
+{
+    "main_email": "test_main@test.com",
+    "id": ["test_001@test.com", "test_002@test.com", "test_003@test.com"],
+    "pw": "test!@#$1234",
+    "name": ["QATEST_001", "QATEST_002"],
+    "env": "alpha"
+}
